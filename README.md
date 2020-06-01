@@ -5,7 +5,7 @@ Research project about multiple agents synchronization behavior
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pybullet.
-
+OS X or Linux
 ```bash
 pip install pybullet
 ```
