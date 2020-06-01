@@ -15,7 +15,7 @@ dt = 1. / 240.
 plane = p.createCollisionShape(p.GEOM_PLANE)
 p.createMultiBody(0, plane)
 
-## Channel 
+## Tunnel 
 CW = 0.5*scale # Width
 n = 10 # Length parameter
 for i in range(2*n):
@@ -83,12 +83,12 @@ delta_x = 0.1
 x_a = W
 y_a = -L-L/5-L/2
 x_b = -W
-y_b = -L-L/5-L/2
+y_b = -L-L/5-L/2-delta_X
 
 # Initial position
 basePosition1 = [x_a, y_a, 1]
 baseOrientation1 = [0, 0, 0, 1]
-basePosition2 = [x_b, y_b+delta_x, 1]
+basePosition2 = [x_b, y_b, 1]
 baseOrientation2 = [0, 0, 0, 1]
 
 # Agent 1
