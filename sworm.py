@@ -29,10 +29,8 @@ for i in range(2*n):
 
 ## Muscle and joint
 
-# Geometry
+# Building block
 L = 0.162*scale
-
-# Unit
 colBoxId = p.createCollisionShape(p.GEOM_BOX,halfExtents=[L/10, L, L/10])
 colJointId = p.createCollisionShape(p.GEOM_SPHERE,radius=L/10)
 
