@@ -1,2 +1,3 @@
 # Sworm_Synchronization
-Simulation of two sworm robots based on pybullet
+Platform: pybullet
+Object: multiple agents synchronization behavior
