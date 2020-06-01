@@ -4,10 +4,10 @@ Research project about multiple agents synchronization behavior
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pybullet.
 
 ```bash
-pip install foobar
+pip install pybullet
 ```
 
 ## Usage
