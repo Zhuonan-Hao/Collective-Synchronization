@@ -13,7 +13,7 @@ pip install pybullet
 ## Usage
 
 ```python
-import foobar
+python sworm.py
 
 foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
