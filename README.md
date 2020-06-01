@@ -1,3 +1,3 @@
 # Sworm_Synchronization
-Platform: pybullet
+Platform: pybullet\n
 Object: multiple agents synchronization behavior
