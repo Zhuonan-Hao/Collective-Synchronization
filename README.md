@@ -1,9 +1,6 @@
-# Sworm_Synchronization
-Platform: pybullet\n
-Object: multiple agents synchronization behavior
-# Foobar
+# Sworm Synchronization
 
-Foobar is a Python library for dealing with word pluralization.
+Research project about multiple agents synchronization behavior
 
 ## Installation
 
