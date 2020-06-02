@@ -81,7 +81,7 @@ delta_x = 0.1
 x_a = W
 y_a = -L-L/5-L/2
 x_b = -W
-y_b = -L-L/5-L/2-delta_X
+y_b = -L-L/5-L/2-delta_x
 
 # Initial position
 basePosition1 = [x_a, y_a, 1]
